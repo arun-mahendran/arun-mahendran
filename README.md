@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arun
 
-I’m a **pre-final year Computer Science Engineering student** focused on building **practical, production-oriented software systems**.
+I’m a **final year Computer Science Engineering student** focused on building **practical, production-oriented software systems**.
 
 I primarily work on **Java-based full-stack development**, with an emphasis on **building projects from scratch, deploying them, and understanding real-world system behavior**.
 
